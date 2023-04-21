@@ -1,27 +1,27 @@
 #title{
 
-   color:blueviolet
+   color:rgba(137, 43, 226, 0.012)
     
     }
  
     
     .blue{
     
-    color:rgb(255, 127, 221)
+    color:rgba(255, 127, 221, 0.089)
     
     }
     
  
     h2{
     
-     color:rgb(255, 17, 0)
+     color:rgb(3, 25, 28)
     
     }
     
   
     body{
     
-   background-color: rgb(233, 79, 181);
+   background-color: rgba(220, 211, 217, 0.442);
     
    color:rgb(37, 49, 181)
     
@@ -30,6 +30,6 @@
    
     header{
     
-    background-color: rgb(255, 0, 195);
+    background-color: rgba;
     
     }
